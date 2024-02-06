@@ -1,6 +1,6 @@
 {
   "name": "third-party-library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Library for testing integration with other projects",
   "main": "dist/index.js",
   "types": "dist-types/index.d.ts",
