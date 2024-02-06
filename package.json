@@ -15,7 +15,7 @@
     "lint:es": "yarn eslint .",
     "lint:prettier": "yarn prettier .",
     "pre-commit": "lint-staged",
-    "prepare": "husky",
+    "prepare": "yarn build",
     "prettier": "prettier --check"
   },
   "devDependencies": {
