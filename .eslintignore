@@ -1,2 +1,6 @@
+.husky
+.lintstagedrc
 dist
 dist-types
+package.json
+yarn.lock
