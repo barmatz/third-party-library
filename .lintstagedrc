@@ -1,1 +1,1 @@
-"*": yarn lint
+"**/*.{ts,js}": ["yarn prettier", "yarn eslint"]
