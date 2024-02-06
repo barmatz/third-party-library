@@ -1,0 +1,7 @@
+{
+  "name": "third-party-library",
+  "version": "0.0.0",
+  "description": "Library for testing integration with other projects",
+  "main": "index.js",
+  "license": "MIT"
+}
