@@ -19,7 +19,8 @@
     "lint:prettier": "yarn prettier .",
     "pre-commit": "lint-staged",
     "prepare": "yarn build",
-    "prettier": "prettier --check"
+    "prettier": "prettier --check",
+    "postversion": "git push --tags"
   },
   "dependencies": {
     "typescript": "^5.3.3"
